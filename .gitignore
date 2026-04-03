@@ -1,0 +1,4 @@
+﻿memory/
+tmp/
+node_modules/
+.env
